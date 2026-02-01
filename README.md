@@ -17,6 +17,7 @@ Developer Mobile & Back-end from Teresina/PI, specialized in Flutter and Golang.
 - **Mobile Development**: Flutter specialist — iOS, Android & Web from a single codebase
 - **Back-end Development**: Golang focused on performant and reliable APIs
 - **Clean Architecture**: Application of solid patterns across mobile and back-end
+- **Ports and Adapter**: Solid designer back-and
 - **Cloud & DevOps**: Deployment and infrastructure with GCP and Docker
 
 ---
