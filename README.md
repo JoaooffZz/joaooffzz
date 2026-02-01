@@ -74,15 +74,6 @@ stack := map[string][]string{
 
 ---
 
-## Popular Repositories
-
-- **[messox-server](https://github.com/JoaooffZz/messox-server)** — Back-end server built with Go
-- **[messox-app](https://github.com/JoaooffZz/messox-app)** — Mobile app built with Flutter/Dart
-- **[fire-simple-application](https://github.com/JoaooffZz/fire-simple-application)** — Simple application project
-- **[flutter-labs-ui](https://github.com/JoaooffZz/flutter-labs-ui)** — UI creation challenges & free Flutter components
-
----
-
 ## Contact
 
 <div align="center">
