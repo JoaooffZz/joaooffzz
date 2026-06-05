@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Header](https://img.shields.io/badge/Mobile_&_Back--end-Flutter_and_Golang_Specialist-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Location](https://img.shields.io/badge/Teresina,_PI-Brazil-green?style=for-the-badge)
+  ![Location](https://img.shields.io/badge/Brazil-green?style=for-the-badge)
   
 </div>
 
