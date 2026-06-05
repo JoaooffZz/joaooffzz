@@ -4,7 +4,6 @@
   
   ![Header](https://img.shields.io/badge/Mobile_&_Back--end-Flutter_and_Golang_Specialist-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Location](https://img.shields.io/badge/Teresina,_PI-Brazil-green?style=for-the-badge)
-  ![Level](https://img.shields.io/badge/Mid_Level-.Jr-blueviolet?style=for-the-badge)
   
 </div>
 
@@ -17,8 +16,9 @@ Developer Mobile & Back-end from Teresina/PI, specialized in Flutter and Golang.
 - **Mobile Development**: Flutter specialist — iOS, Android & Web from a single codebase
 - **Back-end Development**: Golang focused on performant and reliable APIs
 - **Clean Architecture**: Application of solid patterns across mobile and back-end
-- **Ports and Adapter**: Solid designer back-and
+- **Ports and Adapter**: Solid designer back-end
 - **Cloud & DevOps**: Deployment and infrastructure with GCP and Docker
+- **Observability & Telemetry**: Structured logging, tracing and monitoring with OpenTelemetry patterns
 
 ---
 
@@ -34,6 +34,13 @@ Developer Mobile & Back-end from Teresina/PI, specialized in Flutter and Golang.
 ![net/http](https://img.shields.io/badge/net/http-00ADD8?style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### Observability & Telemetry
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B348C?style=flat&logo=opentelemetry&logoColor=white)
+![Structured Logging](https://img.shields.io/badge/Structured_Logging-2E86C1?style=flat&logoColor=white)
+![Tracing](https://img.shields.io/badge/Distributed_Tracing-1ABC9C?style=flat&logoColor=white)
+![Go Channels](https://img.shields.io/badge/Go_Channels-00ADD8?style=flat&logo=go&logoColor=white)
+![Context Propagation](https://img.shields.io/badge/Context_Propagation-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02B5BD?style=flat&logo=flutter&logoColor=white)
@@ -66,10 +73,11 @@ Developer Mobile & Back-end from Teresina/PI, specialized in Flutter and Golang.
 
 ```go
 stack := map[string][]string{
-    "backend":   {"Golang", "REST", "SOAP", "TCP", "Socket.io", "Gin", "net/http", "Redis", "RabbitMQ"},
-    "mobile":    {"Flutter", "Dart", "Android", "iOS", "Web", "HIVE", "GetX", "BLoc", "ChangeNotifier", "Auth0"},
-    "databases": {"PostgreSQL", "Supabase", "Firebase", "SQLite"},
-    "devops":    {"Docker", "GCP", "Git", "App Store", "Play Store"},
+    "backend":       {"Golang", "REST", "SOAP", "TCP", "Socket.io", "Gin", "net/http", "Redis", "RabbitMQ"},
+    "observability": {"OpenTelemetry", "Structured Logging", "Distributed Tracing", "Go Channels", "Context Propagation"},
+    "mobile":        {"Flutter", "Dart", "Android", "iOS", "Web", "HIVE", "GetX", "BLoc", "ChangeNotifier", "Auth0"},
+    "databases":     {"PostgreSQL", "Supabase", "Firebase", "SQLite"},
+    "devops":        {"Docker", "GCP", "Git", "App Store", "Play Store"},
 }
 ```
 
@@ -87,7 +95,7 @@ stack := map[string][]string{
 
 <div align="center">
 
-**Teresina, PI | Developer Mobile & Back-end | Flutter and Golang Specialist | Mid Level: .Jr**
+**Teresina, PI | Developer Mobile & Back-end | Flutter and Golang Specialist**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoaooffZz&color=blueviolet&style=for-the-badge)
 
